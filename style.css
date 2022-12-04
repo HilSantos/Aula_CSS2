@@ -1,0 +1,19 @@
+* {
+  font-family: 'Maven Pro', sans-serif;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+header {
+  display: flex;
+  background-color: lightgray;
+}
+
+nav {
+  background-color: #ef7d19;
+}
+
+ul {
+  display: flex;
+}
